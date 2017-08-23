@@ -7,7 +7,7 @@ tags: blog
 ---
 
 After the first month, I  started to integrate bivariate mapping to matplotlib's
-plotting functions like `imshow`, `pcolor`, `pcolormesh`, 'pcolorfast` and
+plotting functions like `imshow`, `pcolor`, `pcolormesh`, `pcolorfast` and
 `scatter`. The main challenge was modifying matplotlib's current mechanism
 which assumes 2d arrays are to be mapped with colormap and 3d array having
 shape that of RGB and RGBA arrays are to be plotted as is. So after some
