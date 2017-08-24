@@ -43,3 +43,8 @@ One failure was not being able to keep up a schedule for working. In my proposal
 I promised 8 hours of work per day. Well it isn't as easy as it seems and
 specially when the work is on laptop where it is easy to be distracted by
 some notification beep.
+
+Overall this was surely a great learning experience. Hopefully I continue
+writing the blog even after GSoC period ends.
+
+Harshit
